@@ -1,0 +1,125 @@
+[13:54:05] [main/INFO] (FabricLoader/GameProvider) Loading Minecraft 1.8.9 with Fabric Loader 0.15.6
+[13:54:05] [main/INFO] (FabricLoader) Loading 30 mods:
+	- fabricloader 0.15.6
+	- java 21
+	- killaura 1.0.0
+	- legacy-fabric-api 1.9.1+1.8.9
+	- legacy-fabric-api-base 1.1.0+1.8.9+f368a06d39
+	- legacy-fabric-api-base-common 1.1.0+1dd3cad892
+	- legacy-fabric-command-api-v1 1.0.0+ae4aa0d092
+	- legacy-fabric-command-api-v2 1.0.0+1.8.9+01f7587839
+	- legacy-fabric-crash-report-info-v1 1.0.0+1.8.9+f368a06d39
+	- legacy-fabric-entity-events-v1 1.0.0+1.8.9+f368a06d39
+	- legacy-fabric-entity-events-v1-common 1.0.0+ae4aa0d092
+	- legacy-fabric-gamerule-api-v1 1.0.0+ae4aa0d092
+	- legacy-fabric-item-groups-v1 2.0.0+1.8.9+f368a06d39
+	- legacy-fabric-item-groups-v1-common 2.0.0+1dd3cad892
+	- legacy-fabric-keybinding-api-v1-common 1.0.0+ae4aa0d092
+	- legacy-fabric-lifecycle-events-v1 1.0.1+1.8.9+d86bee7939
+	- legacy-fabric-lifecycle-events-v1-common 1.0.1+ae4aa0d092
+	- legacy-fabric-logger-api-v1 1.0.4+ae4aa0d092
+	- legacy-fabric-networking-api-v1 2.0.0+1.8.9+01f7587839
+	- legacy-fabric-networking-api-v1-common 2.0.0+022f9a7592
+	- legacy-fabric-permissions-api-v1 1.0.0+1.8.9+f368a06d39
+	- legacy-fabric-permissions-api-v1-common 1.0.0+ae4aa0d092
+	- legacy-fabric-registry-sync-api-v1 2.1.0+1.8.9+508c546039
+	- legacy-fabric-registry-sync-api-v1-common 2.1.0+508c546092
+	- legacy-fabric-rendering-api-v1 1.0.0+1.8.9+022f9a7539
+	- legacy-fabric-rendering-api-v1-common 1.0.0+ae4aa0d092
+	- legacy-fabric-resource-loader-v1 2.1.0+1.8.9+022f9a7539
+	- legacy-fabric-resource-loader-v1-common 2.1.0+a9c128f492
+	- minecraft 1.8.9
+	- mixinextras 0.3.2
+[13:54:05] [main/INFO] (FabricLoader/Mixin) SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/E:/.gradle/caches/modules-2/files-2.1/net.fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/8d31fb97c3e0cd7c8dad3441851c523bcfae6d8e/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=CLIENT
+[13:54:05] [main/INFO] (FabricLoader/Mixin) Loaded Fabric development mappings for mixin remapper!
+[13:54:06] [main/INFO] (FabricLoader/MixinExtras|Service) Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.2).
+[13:54:07] [main/INFO] (Minecraft) Setting user: Player252
+[13:54:07] [main/INFO] (Minecraft) (Session ID is token:FabricMC:Player252)
+[13:54:10] [main/INFO] (Minecraft) LWJGL Version: 2.9.4+legacyfabric
+[13:54:11] [main/INFO] (Minecraft) Reloading ResourceManager: Default, Legacy Fabric Networking API (v1), Legacy Fabric Resource Loader (V1) Common, Legacy Fabric Command API (V1), Legacy Fabric Entity Events (V1), Legacy Fabric Registry Sync API (V1), Legacy Fabric Command API (v2), Legacy Fabric Lifecycle Events (V1), Legacy Fabric Rendering API (V1), Legacy Fabric Entity Events (V1), Legacy Fabric Rendering API (V1), Legacy Fabric Item Groups (V1), Fabric Loader, Legacy Fabric Crash Report Info (v1), Fabric Gamerule API (v1), Legacy Fabric Registry Sync API (V1), Legacy Fabric Resource Loader (V1), Legacy Fabric Networking API (v1), Legacy Fabric Lifecycle Events (V1), Legacy Fabric API Base Common, Legacy Fabric Item Groups (V1), Killaura--, Legacy Fabric Permissions API (v1), Legacy Fabric Keybinding API (V1), Legacy Fabric Permissions API (v2), Legacy Fabric API Base, Legacy Fabric Logger API (v1), Legacy Fabric API
+[13:54:11] [main/ERROR] (Minecraft) Couldn't initialize twitch stream
+[13:54:11] [Sound Library Loader/INFO] (Minecraft) Starting up SoundSystem...
+[13:54:11] [Thread-4/INFO] (Minecraft) Initializing LWJGL OpenAL
+[13:54:11] [Thread-4/INFO] (Minecraft) (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[13:54:11] [Thread-4/INFO] (Minecraft) OpenAL initialized.
+[13:54:12] [Sound Library Loader/INFO] (Minecraft) Sound engine started
+[13:54:13] [main/INFO] (Minecraft) Created: 512x512 textures-atlas
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry legacy-fabric-registry-sync-api-v1-common:registry_remappers
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 7 entries
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:blocks
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 198 entries
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:status_effects
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 23 entries
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:enchantments
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 25 entries
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:items
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 337 entries
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:biomes
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 61 entries
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:block_entity_types
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 21 entries
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:entity_types
+[13:54:25] [main/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 62 entries
+[13:54:25] [main/INFO] (LegacyFabricAPI/WorldSaveHandler) [legacy-fabric-registry-sync-api-v1] Loaded registry data [file 1/4]
+[13:54:25] [Server thread/INFO] (Minecraft) Starting integrated minecraft server version 1.8.9
+[13:54:25] [Server thread/INFO] (Minecraft) Generating keypair
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry legacy-fabric-registry-sync-api-v1-common:registry_remappers
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 7 entries
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:blocks
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 198 entries
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:status_effects
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 23 entries
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:enchantments
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 25 entries
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:items
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 337 entries
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:biomes
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 61 entries
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:block_entity_types
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 21 entries
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapping registry minecraft:entity_types
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/RegistryRemapper) Remapped 62 entries
+[13:54:25] [Server thread/INFO] (LegacyFabricAPI/WorldSaveHandler) [legacy-fabric-registry-sync-api-v1] Loaded registry data [file 1/4]
+[13:54:25] [Server thread/INFO] (Minecraft) Preparing start region for level 0
+[13:54:26] [Server thread/INFO] (Minecraft) Preparing spawn area: 49%
+[13:54:26] [Server thread/INFO] (Minecraft) Changing view distance to 12, from 10
+[13:54:27] [Server thread/INFO] (Minecraft) Player252[local:E:5e7aec33] logged in with entity id 251 at (-286.69999998807907, 68.0, 356.69999998807907)
+[13:54:27] [Server thread/INFO] (Minecraft) Player252 joined the game
+[13:54:31] [main/INFO] (Minecraft) [CHAT] KillAura: true
+[13:54:31] [main/INFO] (Minecraft) [CHAT] KillAura: false
+[13:54:34] [main/INFO] (Minecraft) [CHAT] /kill, /killaura-config
+[13:54:34] [main/INFO] (Minecraft) [CHAT] /kill, /killaura-config
+[13:54:35] [main/INFO] (Minecraft) [CHAT] Swing: true
+[13:54:35] [main/INFO] (Minecraft) [CHAT] Reach: 5.0
+[13:54:35] [main/INFO] (Minecraft) [CHAT] times: 12
+[13:55:02] [main/INFO] (Minecraft) [CHAT] KillAura: true
+[13:55:08] [Server thread/INFO] (Minecraft) [Player252: Object successfully summoned]
+[13:55:08] [main/INFO] (Minecraft) [CHAT] Object successfully summoned
+[13:55:14] [main/INFO] (Minecraft) [CHAT] KillAura: false
+[13:55:17] [Server thread/INFO] (Minecraft) [Player252: Object successfully summoned]
+[13:55:17] [main/INFO] (Minecraft) [CHAT] Object successfully summoned
+[13:55:17] [Server thread/INFO] (Minecraft) [Player252: Object successfully summoned]
+[13:55:17] [main/INFO] (Minecraft) [CHAT] Object successfully summoned
+[13:55:18] [Server thread/INFO] (Minecraft) [Player252: Object successfully summoned]
+[13:55:18] [main/INFO] (Minecraft) [CHAT] Object successfully summoned
+[13:55:18] [Server thread/INFO] (Minecraft) [Player252: Object successfully summoned]
+[13:55:18] [main/INFO] (Minecraft) [CHAT] Object successfully summoned
+[13:55:19] [Server thread/INFO] (Minecraft) [Player252: Object successfully summoned]
+[13:55:19] [main/INFO] (Minecraft) [CHAT] Object successfully summoned
+[13:55:19] [Server thread/INFO] (Minecraft) [Player252: Object successfully summoned]
+[13:55:19] [main/INFO] (Minecraft) [CHAT] Object successfully summoned
+[13:55:21] [main/INFO] (Minecraft) [CHAT] KillAura: true
+[13:55:40] [main/INFO] (Minecraft) [CHAT] KillAura: false
+[13:55:41] [Server thread/INFO] (Minecraft) Saving and pausing game...
+[13:55:41] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Overworld
+[13:55:41] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Nether
+[13:55:41] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/The End
+[13:55:42] [Server thread/INFO] (Minecraft) Stopping server
+[13:55:42] [Server thread/INFO] (Minecraft) Saving players
+[13:55:42] [Server thread/INFO] (Minecraft) Saving worlds
+[13:55:42] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Overworld
+[13:55:42] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/Nether
+[13:55:42] [Server thread/INFO] (Minecraft) Saving chunks for level 'New World'/The End
+[13:55:43] [main/INFO] (Minecraft) Stopping!
+[13:55:43] [main/INFO] (Minecraft) SoundSystem shutting down...
+[13:55:43] [main/WARN] (Minecraft) Author: Paul Lamb, www.paulscode.com

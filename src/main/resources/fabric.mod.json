@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "killaura",
+  "version": "${version}",
+  "name": "Killaura--",
+  "description": "",
+  "authors": [
+    "KSmc_brigade"
+  ],
+  "contact": {
+    "sources": "https://github.com/yiyuyan/Killaura--"
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "cn.ksmcbrigade.killaura.KillauraMod"
+    ]
+  },
+  "mixins": [
+    "killaura.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "minecraft": "1.8.9"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
